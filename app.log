@@ -51564,3 +51564,15 @@ OSError: [Errno 22] Invalid argument
 OSError: [Errno 22] Invalid argument
 2023-05-16 14:46:11.637647: Running on_exit tasks
 2023-05-16 14:46:11.637647: wfastcgi.py 3.0.0 closed
+2023-05-16 18:34:22.781886: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Dash_IIS\ are changed: .*((\.py)|(\.config))$
+2023-05-16 18:34:22.782883: wfastcgi.py 3.0.0 initialized
+2023-05-16 18:34:35.356353: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Dash_IIS\ are changed: .*((\.py)|(\.config))$
+2023-05-16 18:34:35.356353: wfastcgi.py 3.0.0 initialized
+2023-05-16 18:34:35.356353: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Dash_IIS\ are changed: .*((\.py)|(\.config))$
+2023-05-16 18:34:35.356353: wfastcgi.py 3.0.0 initialized
+2023-05-16 18:34:35.387663: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Dash_IIS\ are changed: .*((\.py)|(\.config))$
+2023-05-16 18:34:35.387663: wfastcgi.py 3.0.0 initialized
+2023-05-16 18:34:35.403292: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Dash_IIS\ are changed: .*((\.py)|(\.config))$
+2023-05-16 18:34:35.403292: wfastcgi.py 3.0.0 initialized
+2023-05-16 18:34:35.434186: wfastcgi.py will restart when files in C:\inetpub\wwwroot\Dash_IIS\ are changed: .*((\.py)|(\.config))$
+2023-05-16 18:34:35.435181: wfastcgi.py 3.0.0 initialized
