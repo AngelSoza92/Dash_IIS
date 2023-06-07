@@ -114,7 +114,7 @@ sidebar = html.Div(
 
 contenidox = html.Div(id='page-content',className='content',children=[])
 
-app2.layout = html.Div([dcc.Location(id="url"), contenidox])
+app2.layout = html.Div([dcc.Location(id="url"), sidebar,contenidox])
 @app2.callback(Output("download-dataframe-xlsx", "data"),
     Input("btn_xlsx", "n_clicks"),[State(component_id='inUsr',component_property='value'),State(component_id='my-slider', component_property='value'),State(component_id='CDslctd', component_property='value')],prevent_initial_call=True)
 def descargarUsr(n_clicks, usr,hrs,cds):
